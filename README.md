@@ -3,6 +3,7 @@ VLANs • Inter-VLAN Routing • OSPF • Static Routing • NAT • ACLs
 
 ### Files Included
 - vlan_trunking_lab.pkt
+- Telnet_SSH_Labs
 
 ### What I Configured
 - VLANs and Trunking
