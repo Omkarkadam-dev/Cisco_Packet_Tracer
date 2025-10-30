@@ -2,7 +2,7 @@
 VLANs • Inter-VLAN Routing • OSPF • Static Routing • NAT • ACLs
 
 ### Files Included
-- vlan_intervlan_lab.pkt
+- vlan_trunking_lab.pkt
 
 ### What I Configured
 - VLANs and Trunking
