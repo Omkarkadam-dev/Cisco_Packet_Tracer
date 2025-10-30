@@ -18,5 +18,5 @@ VLANs • Inter-VLAN Routing • OSPF • Static Routing • NAT • ACLs
 - ping tests
 
 ### Screenshots
-<img width="1898" height="718" alt="VLAN , Trunk Pkt" src="https://github.com/user-attachments/assets/63b347f0-cef6-4d82-a89e-c0d1084615d4" />
+<img width="1598" height="518" alt="VLAN , Trunk Pkt" src="https://github.com/user-attachments/assets/63b347f0-cef6-4d82-a89e-c0d1084615d4" />
 
