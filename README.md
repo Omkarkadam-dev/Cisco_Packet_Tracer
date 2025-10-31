@@ -4,10 +4,12 @@ VLANs • Inter-VLAN Routing • OSPF • Static Routing • NAT • ACLs
 ### Files Included
 - vlan_trunking_lab.pkt
 - Telnet_SSH_Labs
+- Inter_VLAN_Routing(Router-on-a-stick)
 
 ### What I Configured
 - VLANs and Trunking
 - Telnet and SSH
+- Inter-VLAN Routing (Router-on-a-stick)
 
 ### Verification Used
 - show ip int br
