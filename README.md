@@ -12,7 +12,8 @@ VLANs • Inter-VLAN Routing • OSPF • Static Routing • NAT • ACLs
 - VLANs and Trunking
 - Inter-VLAN Routing (Router-on-a-stick)
 - Inter-VLAN Routing using Layer 3 Switch
-- OSPF 
+- OSPF
+- ACL (Standard + Extended)
 
 ### Verification Used
 - show ip int br
@@ -27,6 +28,7 @@ VLANs • Inter-VLAN Routing • OSPF • Static Routing • NAT • ACLs
 <img width="398" height="218" alt="Inter-vlan using L3 switch" src="https://github.com/user-attachments/assets/3ea7c950-79bd-4d46-96ad-0f000251492f" />
 <img width="398" height="218" alt="Inter-vlan using L3 switch" src="https://github.com/user-attachments/assets/d8380b68-1b04-4381-be9c-33810570b79c" />
 <img width="398" height="218" alt="ospf 1" src="https://github.com/user-attachments/assets/46127c3b-10bc-4d7f-bb49-7346efb38572" />
+<img width="398" height="218" alt="Standard ACL" src="https://github.com/user-attachments/assets/d46cc711-1d3a-4c6f-a32f-f29d704515ce" />
 
 
 
