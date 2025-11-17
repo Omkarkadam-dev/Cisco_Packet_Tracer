@@ -14,6 +14,7 @@ VLANs • Inter-VLAN Routing • OSPF • Static Routing • NAT • ACLs
 - Inter-VLAN Routing using Layer 3 Switch
 - OSPF
 - ACL (Standard + Extended)
+- NAT (Static + Dynamic)
 
 ### Verification Used
 - show ip int br
@@ -30,6 +31,7 @@ VLANs • Inter-VLAN Routing • OSPF • Static Routing • NAT • ACLs
 <img width="398" height="218" alt="ospf 1" src="https://github.com/user-attachments/assets/46127c3b-10bc-4d7f-bb49-7346efb38572" />
 <img width="398" height="218" alt="Standard ACL" src="https://github.com/user-attachments/assets/d46cc711-1d3a-4c6f-a32f-f29d704515ce" />
 <img width="398" height="218" alt="image" src="https://github.com/user-attachments/assets/fc73790b-9d3b-40b7-90a5-6d22fd7c474e" />
+<img width="398" height="218" alt="image" src="https://github.com/user-attachments/assets/e1a53909-96e6-460a-8997-c6abbaaeb7da" />
 
 
 
